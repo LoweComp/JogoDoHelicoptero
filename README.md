@@ -1,7 +1,4 @@
 # JogoDoHelicoptero
-## Baseado em um projeto apresentado pela DIO
+### Baseado em um projeto apresentado pela DIO
 
-
-```
-Resgate 🚁🔥
-```
+                Resgate 🚁🔥
